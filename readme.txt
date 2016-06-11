@@ -1,3 +1,5 @@
-**** STM32-H107_blink_FLASH ****
+**** Automatic standalone magnetic levitation plant ****
 
-Simple blinking LED example for the STM32-H107 board configured to run in FLASH 
+Embedded control project for magnetic levitation, winch was my thesis at the university.
+
+You can see it in action here: https://www.youtube.com/watch?v=8y9tdiITTCE
