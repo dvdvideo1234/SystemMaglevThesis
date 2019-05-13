@@ -1,4 +1,4 @@
-**** Automatic standalone magnetic levitation plant ****
+### Automatic standalone magnetic levitation plant
 
 Embedded control project for magnetic levitation, winch was my thesis at the university.
 
